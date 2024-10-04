@@ -1,7 +1,7 @@
 <div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Tiago+Sversut;I'm+17+years+old;I'm+from+Brazil;I+am+a+Backend+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Tiago+Sversut;I'm+18+years+old;I'm+from+Brazil;I+am+a+Backend+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suttiago&bg_color=0d1117&color=00CED1&line=48D1CC&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

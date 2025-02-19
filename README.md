@@ -35,6 +35,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)&nbsp;
+          
 </br>
 
 ### Commits:

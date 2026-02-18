@@ -13,8 +13,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihojak&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suttiagok&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suttiagok&theme=tokyonight&mode=weekly&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-sversutk&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiago-sversutk&theme=tokyonight&mode=weekly&hide_border=true" />
 </div>
 
 

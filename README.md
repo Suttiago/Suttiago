@@ -9,9 +9,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Suttiago&theme=gothic&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Suttiago&show_icons=true&count_private=true&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=48D1CC&bg_color=000000" alt="Tiago Sversut github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suttiago&layout=compact&hide_border=true&title_color=00CED1&text_color=40E0D0&bg_color=0d1117" />
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihojak&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suttiagok&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suttiagok&theme=tokyonight&mode=weekly&hide_border=true" />
 </div>
 
 

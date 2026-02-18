@@ -1,7 +1,7 @@
 <div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Tiago+Sversut;I'm+18+years+old;I'm+from+Brazil;I+am+a+Backend+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Tiago+Sversut;I'm+19+years+old;I'm+from+Brazil;I+am+a+Backend+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suttiago&bg_color=0d1117&color=00CED1&line=48D1CC&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -13,8 +13,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihojak&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-sversutk&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiago-sversutk&theme=tokyonight&mode=weekly&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suttiago&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suttiago&theme=tokyonight&mode=weekly&hide_border=true" />
 </div>
 
 
